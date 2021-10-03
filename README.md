@@ -1,1 +1,1 @@
-A simple project to show how to create synamic lists with the Flutter ListView.Builder
+A simple project to show how to create dynamic lists with the Flutter ListView.builder
